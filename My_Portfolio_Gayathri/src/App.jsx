@@ -14,7 +14,7 @@ function App() {
     <div className="flex flex-col">
       <Navbar />
       
-      <section id="profile" className="pt-24 min-h-screen bg-white">
+      <section id="profile" className="pt-16 min-h-screen">
         <Profile />
       </section>
 
